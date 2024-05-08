@@ -1,7 +1,7 @@
 # Web Scraping
 
 ## What is Web Scraping?
--Web scraping is a technique used to extract large amounts of data from websites. It involves programmatically visiting web pages andextracting information from them. This process can range from simple data collection tasks, like scraping prices from an e-commerce site, tomore complex activities, such as harvesting contact information for research purposes.
+- Web scraping is a technique used to extract large amounts of data from websites. It involves programmatically visiting web pages andextracting information from them. This process can range from simple data collection tasks, like scraping prices from an e-commerce site, tomore complex activities, such as harvesting contact information for research purposes.
 
 ## Is web scraping legal?
 - The legality of web scraping depends on several factors and can vary by country. Generally, scraping publicly accessible data for personal, non-commercial use is considered legal. However, issues arise when scraping:
